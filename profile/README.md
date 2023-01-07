@@ -13,9 +13,8 @@
 
 ### 主要仓库
 
-[![server](https://socialify.git.ci/detalkjs/server/image?description=1&descriptionEditable=%F0%9F%8E%89%20Detalk%20is%20a%20simple%20comment%20plugin%20based%20on%20Deta.&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)](https://github.com/detalkjs/server)
-
-[![client](https://socialify.git.ci/detalkjs/client/image?description=1&descriptionEditable=%E2%9A%A1%20The%20fastest%20way%20to%20add%20Detalk%20(Based%20on%20Deta)%20to%20your%20website.&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)](https://github.com/detalkjs/client)
+- [detalkjs/server](https://github.com/detalkjs/server)
+- [detalkjs/client](https://github.com/detalkjs/client)
 
 ### Detalk 文档
 
