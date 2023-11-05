@@ -1,3 +1,3 @@
 ## Detalk.js
 
-> Coming in 2024.
+> 🎉 Coming in 2024.
